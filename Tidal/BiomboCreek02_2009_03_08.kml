@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>BiomboCreek02_2009_03_08</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>&lt;html&gt;&lt;table border="1"&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;BiomboCreek02_2009_03_08&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Folder&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;br&gt;&lt;/br&gt;&lt;/html&gt;
+</description>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>-16.3036821894169,11.8626483576877,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

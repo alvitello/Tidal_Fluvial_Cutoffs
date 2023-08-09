@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>WareCreek01_2007_02_01</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>&lt;html&gt;&lt;table border="1"&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;WareCreek01_2007_02_01&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Folder&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;br&gt;&lt;/br&gt;&lt;/html&gt;
+</description>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>-76.7617053385082,37.4565945297441,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

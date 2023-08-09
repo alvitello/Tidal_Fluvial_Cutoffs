@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>LittleLakeCreek02_2019_03_22</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>&lt;html&gt;&lt;table border="1"&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;LittleLakeCreek02_2019_03_22&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Folder&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;br&gt;&lt;/br&gt;&lt;/html&gt;
+</description>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>-89.6008995025539,30.1910542818519,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

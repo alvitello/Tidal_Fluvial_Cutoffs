@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>CurarayRiver04_1985_12_31</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>&lt;html&gt;&lt;table border="1"&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;CurarayRiver04_1985_12_31&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Folder&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;br&gt;&lt;/br&gt;&lt;/html&gt;
+</description>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>-75.9363114480732,-1.65819163944533,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

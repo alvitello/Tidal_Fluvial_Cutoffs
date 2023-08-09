@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>PecixeCreek01_2014_01_13</name>
+    <Placemark>
+      <Snippet maxLines="0"> </Snippet>
+      <description>&lt;html&gt;&lt;table border="1"&gt;
+&lt;tr&gt;&lt;td&gt;Name&lt;/td&gt;&lt;td&gt;PecixeCreek01_2014_01_13&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Description&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td&gt;Folder&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;&lt;br&gt;&lt;/br&gt;&lt;/html&gt;
+</description>
+      <name>Point 1</name>
+      <Point>
+        <coordinates>-16.0850143483329,11.8255356924649,0</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
